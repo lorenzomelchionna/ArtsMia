@@ -1,7 +1,6 @@
 package it.polito.tdp.artsmia;
 
 import javafx.application.Application;
-import static javafx.application.Application.launch;
 
 import it.polito.tdp.artsmia.model.Model;
 import javafx.fxml.FXMLLoader;
